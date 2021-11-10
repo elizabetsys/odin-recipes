@@ -19,3 +19,12 @@ h3 {
 h3 {
     background-color: rgba(127, 255, 212, 0.541);
 }
+
+h1,
+h3,
+h5,
+p,
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
